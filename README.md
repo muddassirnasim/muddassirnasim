@@ -1,4 +1,4 @@
-<img src="[banner_github.png](https://github.com/muddassirnasim/muddassirnasim/blob/main/Nasim%20Miah%20-%20Web%20Developer%20&%20SEO%20Expert.png?raw=true)" alt="Nasim Miah - Web Developer & SEO Expert" width="100%" />
+<img src="/Nasim%20Miah%20-%20Web%20Developer%20&%20SEO%20Expert.png?" alt="Nasim Miah - Web Developer & SEO Expert" width="100%" />
 
 # Hello World! I'm Nasim Miah, a Web Developer & SEO Expert 👋🏼:
 # 💫 About Me:
