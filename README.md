@@ -1,6 +1,6 @@
 <img src="/Nasim%20Miah%20-%20Web%20Developer%20&%20SEO%20Expert.png?" alt="Nasim Miah - Web Developer & SEO Expert" width="100%" />
 
-# Hello World! I'm Nasim Miah, a Web Developer & SEO Expert 👋🏼:
+# Hi👋🏼! I'm Nasim, a Web Developer & SEO Expert 
 # 💫 About Me:
 🛜 currently working on my own [webpage](https://mrnasim.com)<br><br>👨🏼‍🎓 I’m currently learning react.js & WP Plugin Development<br><br>👨🏼‍💻 working as a web developer & SEO expert since 2020<br><br>💬 Ask me about WordPress, SEO, WP Contributions, & Customer Support<br><br>⚡ Fun fact: I love to explore new tools, tech, and traveling.
 
@@ -31,10 +31,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=muddassirnasim&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muddassirnasim&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 Pay Me
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nasimmiah) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mrnasim) 
 
+[![](https://visitcount.itsvg.in/api?id=muddassirnasim&icon=0&color=0)](https://visitcount.itsvg.in)
   
 <!-- Proudly created by Nasim Miah ) -->
