@@ -2,7 +2,7 @@
 
 # Hi👋🏼! I'm Nasim, a Web Developer & SEO Expert 
 # 💫 About Me:
-🛜 currently working on my own [webpage](https://mrnasim.com)<br><br>👨🏼‍🎓 I’m currently learning react.js & WP Plugin Development<br><br>👨🏼‍💻 working as a web developer & SEO expert since 2020<br><br>💬 Ask me about WordPress, SEO, WP Contributions, & Customer Support<br><br>⚡ Fun fact: I love to explore new tools, tech, and traveling.
+🛜 currently working on my own [webpage](https://mrnasim.com)<br><br>👨🏼‍🎓 I’m currently learning react.js & WP Plugin Development<br><br>👨🏼‍💻 working as a web developer & SEO expert since 2020<br><br>💬 Ask me about WordPress, SEO, [WP Contributions](https://profiles.wordpress.org/muddassirnasim/), & Customer Support<br><br>⚡ Fun fact: I love to explore new tools, tech, and traveling.
 
 
 <!-- ## 🌐 Socials:
