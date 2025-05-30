@@ -29,7 +29,7 @@
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muddassirnasim&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-## 🏆 WordPress Contributions
+## 🎗️ WordPress Contributions
 ![Nasim's WordPress Activity](https://www.cardpress.us/card?username=muddassirnasim)
 ---
   ## 💰 Payment
