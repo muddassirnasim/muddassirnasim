@@ -1,5 +1,5 @@
 <img src="/Nasim%20Miah%20-%20Web%20Developer%20&%20SEO%20Expert.png?" alt="Nasim Miah - Web Developer & SEO Expert" width="100%" />
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muddassirnasim" />
 # Hi👋🏼! I'm Nasim, a Web Developer & SEO Expert 
 # 💫 About Me:
 🛜 currently working on my own [website](https://mrnasim.com)<br><br>👨🏼‍🎓 I’m currently learning react.js & WP Plugin Development<br><br>👨🏼‍💻 working as a web developer & SEO expert since 2020<br><br>💬 Ask me about WordPress, SEO, [WP Contributions](https://profiles.wordpress.org/muddassirnasim/), & Customer Support<br><br>⚡ Fun fact: I love to explore new tools, tech, and traveling.
